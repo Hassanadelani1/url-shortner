@@ -1,0 +1,1 @@
+A Url shortner that shortens long links. It allows customizing the link and generating a QR code. 
